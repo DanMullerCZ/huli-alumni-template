@@ -1,11 +1,11 @@
-# {first-name} {last-name}
+# Daniel Műller
 
-Welcome to my page, my name is {name} and I'm a fresh alumni of Green Fox Academy. I'm specializing in {career-path} and this is my progression in our after-course Huli program, where I'm sharpening my skills to become an even better candidate.
+Welcome to my page, my name is Daniel and I'm a fresh alumni of Green Fox Academy. I'm specializing in Fullstack and this is my progression in our after-course Huli program, where I'm sharpening my skills to become an even better candidate.
 
 ## Hire me
-LinkedIn: {link}
+LinkedIn: https://www.linkedin.com/in/daniel-m%C5%B1ller-132015155/
 
-Email: {link}
+Email: daniel.muller1918@seznam.cz
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
 {project-name}: {link-to-repo}
