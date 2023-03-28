@@ -8,7 +8,7 @@ LinkedIn: https://www.linkedin.com/in/daniel-m%C5%B1ller-132015155/
 Email: daniel.muller1918@seznam.cz
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
-{project-name}: {link-to-repo}
+Weather App: https://github.com/DanMullerCZ/WeatherApp
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
 LeetCode: https://leetcode.com/{username}
