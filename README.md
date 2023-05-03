@@ -18,6 +18,6 @@ Hackerrank: https://www.hackerrank.com/{username}
 Codewars: https://www.codewars.com/users/{username}
 
 ## &rarr; [Interview tests](https://github.com/green-fox-academy/teaching-materials/tree/master/project-phase/tech-interview-tests)
-Upload your solutions as files into interview-tests/ directory
+https://docs.google.com/document/d/1hhIRvmZXoBbObHhnSgI-xeoDY4MtLc2QJzVfVRaaXmg/edit?usp=sharing
 
 
